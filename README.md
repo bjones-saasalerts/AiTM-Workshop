@@ -1,6 +1,30 @@
 # AiTM-KConnect2025
 Pre-reqs and reference material for Kaseya Connect Global 2025 AiTM Workshop
 
+## ✅ Pre-requisite Requirements
+Before proceeding with the workshop, ensure you have the following:
+
+1. **A Domain Name**  
+   - Any domain will work. You can purchase an affordable one from [Namecheap](https://www.namecheap.com/) or any other domain registrar.
+
+2. **A VPS (Virtual Private Server)**  
+   - You will have **one year of access** to the VPS, but you can cancel at any time.  
+   - Your VPS must have at least **2 GB of memory**.  
+   - You can pick from the options below in the hosting plans section.
+
+3. **Debian 12**  
+   - Your VPS must be running **Debian 12** as the operating system.
+
+4. **A Computer with SSH Access**  
+   - If you’re on **Windows**, you can use **Windows Terminal** or **PuTTY**.  
+   - If you’re on **Linux** or **macOS**, SSH is built in and ready to use.
+
+5. **Basic Linux Knowledge (Optional, but Helpful)**  
+   - Understanding basic commands like `cd`, `ls`, `nano`, and `apt` will be beneficial.  
+   - No worries if you're new to Linux – we’ll guide you through the essentials.
+
+---
+
 # 🚀 Hosting Plans
 
 | Plan        | 💰 Price       | 🖥 vCPU Cores | 💾 Storage | 🧠 RAM  | 🔁 Monthly Transfer | 🚀 Network Port | 🔑 Access | 🌎 IPv4 Address | 🔧 Control Panel |
