@@ -20,7 +20,7 @@ Before proceeding with the workshop, ensure you have the following:
    - If you’re on **Linux** or **macOS**, SSH is built in and ready to use.
 
 5. **Basic Linux Knowledge (Optional, but Helpful)**  
-   - Understanding basic commands like `cd`, `ls`, `nano`, and `apt` will be beneficial.  
+   - Understanding basic commands like `cd`, `ls`, `nano`, `sudo`, and `apt` will be beneficial.  
    - No worries if you're new to Linux – we’ll guide you through the essentials.
 
 ---
