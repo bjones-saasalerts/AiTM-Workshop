@@ -9,7 +9,7 @@ Before proceeding with the workshop, ensure you have the following:
 
 2. **A VPS (Virtual Private Server)**  
    - You will have **one year of access** to the VPS, but you can cancel at any time.  
-   - Your VPS must have at least **2 GB of memory**.  
+   - Your VPS must have at least **1 GB of memory**.  
    - You can pick from the options below in the hosting plans section.
 
 3. **Debian 12**  
