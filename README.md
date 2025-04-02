@@ -1,4 +1,4 @@
-# AiTM-KConnect2025
+# Kaseya AiTM Workshop
 Pre-reqs and reference material for Kaseya Connect Global 2025 AiTM Workshop
 
 ## ✅ Pre-requisite Requirements
