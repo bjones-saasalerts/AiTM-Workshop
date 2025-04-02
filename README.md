@@ -1,5 +1,5 @@
 # Kaseya AiTM Workshop
-Pre-reqs and reference material for Kaseya Connect Global 2025 AiTM Workshop
+Pre-reqs and reference material for the server build portion of the workshop!
 
 ## ✅ Pre-requisite Requirements
 Before proceeding with the workshop, ensure you have the following:
