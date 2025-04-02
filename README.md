@@ -13,7 +13,7 @@ Before proceeding with the workshop, ensure you have the following:
    - You can pick from the options below in the hosting plans section.
 
 3. **Debian 12**  
-   - Your VPS must be running **Debian 12** as the operating system.
+   - Your VPS must be running **Ubuntu 22.04 64 Bit** as the operating system.
 
 4. **A Computer with SSH Access**  
    - If you’re on **Windows**, you can use **Windows Terminal** or **PuTTY**.  
