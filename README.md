@@ -11,7 +11,7 @@ Before proceeding with the workshop, ensure you have the following:
    - You will have **one year of access** to the VPS, but you can cancel at any time.  
    - Your VPS must have at least **1 GB of memory**.  
    - You can pick from the options below in the hosting plans section.
-   - Ports that should be accessible - 53, 80, 443, 22
+   - Ports that should be accessible - **53, 80, 443, 22**
 
 3. **Ubuntu**  
    - Your VPS must be running **Ubuntu 22.04 64 Bit** as the operating system.
