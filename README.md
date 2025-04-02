@@ -12,7 +12,7 @@ Before proceeding with the workshop, ensure you have the following:
    - Your VPS must have at least **1 GB of memory**.  
    - You can pick from the options below in the hosting plans section.
 
-3. **Debian 12**  
+3. **Ubuntu**  
    - Your VPS must be running **Ubuntu 22.04 64 Bit** as the operating system.
 
 4. **A Computer with SSH Access**  
