@@ -13,8 +13,9 @@ Before proceeding with the workshop, ensure you have the following:
    - You can pick from the options below in the hosting plans section OR provide your own.
    - Ports that should be accessible - **53, 80, 443, 22**
 
-3. **Ubuntu**  
-   - Your VPS must be running **Ubuntu 22.04 64 Bit** as the operating system.
+3. **Operating System**  
+   - Your VPS should be running **Ubuntu 22.04 64 Bit** as the operating system.
+   - If you decide to run a different OS, please make sure it's Debian based.
 
 4. **A Computer with SSH Access**  
    - If you’re on **Windows**, you can use **Windows Terminal** or **PuTTY**.  
