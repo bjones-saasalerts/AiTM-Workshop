@@ -35,5 +35,6 @@ Before proceeding with the workshop, ensure you have the following:
 |[Order Now](https://my.racknerd.com/aff.php?aff=10858&pid=905)  | **`$32.49/year`** | 2 | 65 GB SSD  | 3.5 GB | 7000 GB          | 1 Gbps       | Full Root Admin | 1 Dedicated | KVM / SolusVM |
 
 ---
+## Watch this video if you need guidance!
 [![Evilginx Pre-reqs](https://img.youtube.com/vi/oto4OCppBgo/0.jpg)](https://www.youtube.com/watch?v=oto4OCppBgo)
 
