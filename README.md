@@ -10,7 +10,7 @@ Before proceeding with the workshop, ensure you have the following:
 2. **A VPS (Virtual Private Server)**  
    - You will have **one year of access** to the VPS, but you can cancel at any time.  
    - Your VPS must have at least **1 GB of memory**.  
-   - You can pick from the options below in the hosting plans section.
+   - You can pick from the options below in the hosting plans section OR provide your own.
    - Ports that should be accessible - **53, 80, 443, 22**
 
 3. **Ubuntu**  
