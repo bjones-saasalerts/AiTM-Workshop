@@ -30,7 +30,7 @@ Before proceeding with the workshop, ensure you have the following:
 # 🚀 Hosting Plans
 
 | Plan        | 💰 Price       | 🖥 vCPU Cores | 💾 Storage | 🧠 RAM  | 🔁 Monthly Transfer | 🚀 Network Port | 🔑 Access | 🌎 IPv4 Address | 
-|---------------|--------------|-------------|------------|--------|------------------|--------------|----------|--------------|----------------|
+|---------------|--------------|-------------|------------|--------|------------------|--------------|----------|--------------|
 |[Order Now](https://my.racknerd.com/aff.php?aff=10858&pid=912)  | **`$10.96/year`** | 1 | 20 GB SSD  | 1 GB   | 2000 GB          | 1 Gbps       | Full Root Admin | 1 Dedicated |
 |[Order Now](https://my.racknerd.com/aff.php?aff=10858&pid=913)  | **`$17.66/year`** | 2 | 30 GB SSD  | 2 GB   | 4000 GB          | 1 Gbps       | Full Root Admin | 1 Dedicated |
 |[Order Now](https://my.racknerd.com/aff.php?aff=10858&pid=914)  | **`$29.89/year`** | 3 | 60 GB SSD  | 3.5 GB | 5000 GB          | 1 Gbps       | Full Root Admin | 1 Dedicated |
