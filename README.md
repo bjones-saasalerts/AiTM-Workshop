@@ -41,8 +41,10 @@ Before proceeding with the workshop, ensure you have the following:
 [![Evilginx Pre-reqs](https://img.youtube.com/vi/oto4OCppBgo/0.jpg)](https://www.youtube.com/watch?v=oto4OCppBgo)
 
 
-## Would you prefer not to set up your own server, but want to show the impact with a video?  Here are two videos, one with audio explaining everything and one without!
+### Would you prefer not to set up your own server, but want to show the impact with a video?  Here are two videos, one with audio explaining everything and one without!
 
 [![Evilginx with Audio](https://help.evilginx.com/img/evilginx-pro-icon-512.png)](https://itglue.wistia.com/medias/gdpjbz03x4)
+Demonstration with Audio Explanation
 
 [![Evilginx without Audio](https://help.evilginx.com/img/evilginx-pro-icon-512.png)](https://itglue.wistia.com/medias/4jwl4116m2)
+Demonstration without Audio Explanation
