@@ -44,5 +44,5 @@ Before proceeding with the workshop, ensure you have the following:
 ### Would you prefer not to set up your own server, but want to show the impact with a video?  Here are two videos, one with audio explaining everything and one without!
 | Demonstration with Audio | Demonstration without Audio |
 |--------------------------|-----------------------------|
-| [![Evilginx with Audio](https://github.com/bjones-saasalerts/AiTM-Workshop/blob/main/evilginx.png)](https://itglue.wistia.com/medias/gdpjbz03x4) | [![Evilginx without Audio](https://github.com/bjones-saasalerts/AiTM-Workshop/blob/main/evilginx.png)](https://itglue.wistia.com/medias/4jwl4116m2) |
+| [![Evilginx with Audio](https://github.com/bjones-saasalerts/AiTM-Workshop/blob/main/evilginx.png)](https://youtu.be/d0QydL-n8tM) | [![Evilginx without Audio](https://github.com/bjones-saasalerts/AiTM-Workshop/blob/main/evilginx.png)](https://youtu.be/lqX7ULr_dZc) |
 
