@@ -34,7 +34,7 @@ Before proceeding with the workshop, ensure you have the following:
 |[Order Now](https://my.racknerd.com/aff.php?aff=10858&pid=917)  | **`$10.76/year`** | 1 | 20 GB SSD  | 1 GB   | 3000 GB          | 1 Gbps       | Full Root Admin | 1 Dedicated |
 |[Order Now](https://my.racknerd.com/aff.php?aff=10858&pid=918)  | **`$17.66/year`** | 2 | 35 GB SSD  | 2 GB   | 5000 GB          | 1 Gbps       | Full Root Admin | 1 Dedicated |
 |[Order Now](https://my.racknerd.com/aff.php?aff=10858&pid=918)  | **`$26.99/year`** | 3 | 55 GB SSD  | 3 GB | 6000 GB          | 1 Gbps       | Full Root Admin | 1 Dedicated |
-|[Order Now](https://my.racknerd.com/aff.php?aff=10858&pid=920)  | **`$39.99/year`** | 4 | 80 GB SSD  | 5 GB | 8000 GB          | 1 Gbps       | Full Root Admin | 1 Dedicated |
+|[Order Now](https://my.racknerd.com/aff.php?aff=10858&pid=920)  | **`$39.99/year`** | 4 | 80 GB SSD  | 4 GB | 8000 GB          | 1 Gbps       | Full Root Admin | 1 Dedicated |
 
 ---
 ## Watch this video if you need guidance!
